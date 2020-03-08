@@ -1,6 +1,8 @@
 # Machine Learning Examples
 
 ## Build Docker 
+Docker image based on jupyter/tensorflow-notebook with additional octave kernel
+
 ```
  docker build -t drole/jupyter-ml .
 ```
